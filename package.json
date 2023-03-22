@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "danielles0xG-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "danielles0xG smart contract security research",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Daniel <daniel.profile.sec@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/danielles0xG/gatsby-blog-template"
   },
   "dependencies": {
     "@fontsource/merriweather": "^4.5.14",
@@ -28,14 +28,14 @@
   "devDependencies": {
     "prettier": "^2.8.4"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://danielles0xg.xyz",
   "keywords": [
-    "gatsby"
+    "security","smart contract", "ethereum"
   ],
-  "license": "0BSD",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/danielles0xG/gatsby-blog-template"
   },
   "scripts": {
     "build": "gatsby build",
