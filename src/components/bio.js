@@ -43,15 +43,28 @@ const Bio = () => {
         alt="Profile picture"
       />
       {author?.name && (
+        <section>
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}  target="_blank">
-            @danielles0xG
-          </a>
-
         </p>
+          <p> 
+             <a href={`https://twitter.com/${social?.twitter || ``}`}  target="_blank" style={{padding:"5px"}}>
+            twitter
+          </a>
+          ||
+          <a href={`https://www.linkedin.com/in/danielifg`}  target="_blank" style={{padding:"5px"}}>
+            linkedin
+          </a> 
+          ||
+          <a href={`https://github.com/danielles0xG`}  target="_blank" style={{padding:"5px"}}>
+            github
+          </a> 
+        </p>
+         
+        </section>
       )}
+    
     </div>
   )
 }
