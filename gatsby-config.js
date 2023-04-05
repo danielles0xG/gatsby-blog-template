@@ -12,7 +12,8 @@ module.exports = {
         title: `Blockchain Security Research`,
         author: {
             name: `Daniel G,`,
-            summary: `web3 DeFi builder doing research in a variety of topics and tools related to ethereum smart contract security.`,
+            summary: `web3 DeFi builder doing research in a variety of topics and tools related to ethereum smart contract security. 
+                      Currently focus in SC code review tools, strategies & rust development.`,
         },
         description: `A starter blog demonstrating what Gatsby can do.`,
         siteUrl: `https://danielles0xg.xyz`,
