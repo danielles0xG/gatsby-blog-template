@@ -9,7 +9,7 @@ description: Professional portfolio and project contributions as a solidity engi
 
 [<img src="decommas.png">](https://decommas.io/)
 
-- Decommas is the decentralized initiative of [3commas.io](https://3commas.io/) whose main focus is to build tools for crypto traders. I had the opportunity to be part of the decommas solidity team tasked to develop a cross-chain delta neutral strategy using protocols like Aave, Gmx, Perpetual, Uniswap, Startgate and Layer Zero. The cross-chain product is still not public but you can read further references to the project here:
+- Decommas is the decentralized initiative of [3commas.io](https://3commas.io/). 3Commas market offers trading bots for centralize exchanges. As part of the solidity research team we develop a cross-chain trading strategy using protocols like Startgate, Layer Zero, Aave, Gmx, Perpetual and UniswapV2 & v3. The cross-chain product is still not public but you can read further references here:
   - [Dapp](https://app.decommas.io/strategies)
   - [Docs](https://medium.com/@DeCommas/new-meta-automating-basis-trading-852c2f08cc44)
   - [Contract](https://optimistic.etherscan.io/address/0x3E818Baf68F6465b2d97604f072CE6E402B906F7)
