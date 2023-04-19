@@ -6,7 +6,7 @@ My solution for the challenge Puppet V3 & understanding **Uniswap V3** prices on
 
 **First, lets discuss the key points to understand how to break this challenge:**
 
-This challenge introduced Uniswap v3 prices calculation and how it now tracks prices at the end of a block, after the last trade of a block. This removes the possibility of in-block price manipulations, (flashloan attacks) ;). And it does this by tracking observations, basically the last price event info.
+This challenge introduced Uniswap v3 prices calculation and how it now tracks prices at the end of a block. This removes the possibility of in-block price manipulations, (flashloan attacks) ;). And it does this by tracking observations, basically the last price event info.
 
 Note: this challenge was a nice opportunity to contribute to the [Foundry version of the Damn Vulnerable Defi challenges](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) originally created by the Open Zeppelin team. I have proposed my update to add this challenge in Foundry.
 <br>
