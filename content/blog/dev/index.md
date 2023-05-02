@@ -3,8 +3,7 @@ title: Web3 Development
 description: Professional portfolio and project contributions as a solidity engineer.
 ---
 
-[Decommas.io](https://decommas.io/) 
-
+**3Commas**
 ---
 
 [<img src="decommas.png">](https://decommas.io/)
@@ -15,8 +14,7 @@ description: Professional portfolio and project contributions as a solidity engi
   - [Contract](https://optimistic.etherscan.io/address/0x3E818Baf68F6465b2d97604f072CE6E402B906F7)
 </br>
 
-[BrightUnion.io](https://brightunion.io/)
-
+**Bright Union**
 ---
 
 [<img src="bu-landing.png">](https://brightunion.io/)
@@ -33,3 +31,22 @@ a curated basket of diversified staking positions underwriting risks in the DeFi
   - ![f](./bri-graph.png)
 
 </br>
+
+**Blockchain Assets (StartUp France)**
+---
+Crypto prices prediction service with AI prediction models.
+Infrastructure proposal to integrate NFT authentication access into the platform services.
+
+**System proposal**
+
+[<img src="arch.png">](https://brightunion.io/)
+
+
+Main components:
+  - Company's website for user onboarding 
+  - Moralis service for BD for internal management
+  - Chainstack for cross-chain synchronization between Ethereum, Polygon, Arbitrum and Binance BSC
+  - ERC1155 management contract for NFT and ERC20 utility & rewards token
+  - IPFS for NFT metadata management
+  - Heroku environment to consume AI prediction models
+  - AWS Lambda functions to update of forecast service availability
