@@ -61,7 +61,7 @@ const Bio = () => {
             github
           </a> 
           ||
-          <a href={`https://ipfs.io/ipfs/QmToiNjUajX3mB2Dv5wCQYJXEPs3gmCpMivyd1FkoUbmBv?filename=DanielG_d0423.pdf`}  target="_blank" style={{padding:"5px"}}>
+          <a href={`https://ipfs.io/ipfs/QmerukptQGsMC73TbJtusc73Njixbh44i88AVkpF6vtC4F?filename=DanielG_d0423.pdf`}  target="_blank" style={{padding:"5px"}}>
             resume
           </a> 
         </p>
