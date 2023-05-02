@@ -1,6 +1,6 @@
 ---
 title: Web3 Development
-description: Professional portfolio and project contributions as a solidity engineer.
+description: Two years as a solidity engineer and avid Defi Builder.
 ---
 
 **3Commas**
@@ -39,7 +39,7 @@ Infrastructure proposal to integrate NFT authentication access into the platform
 
 **System proposal**
 
-[<img src="arch.png">](https://brightunion.io/)
+[<img src="arch.png">]()
 
 
 Main components:

@@ -9,7 +9,7 @@
  */
 module.exports = {
     siteMetadata: {
-        title: `Blockchain Security Research`,
+        title: `Blockchain Research`,
         author: {
             name: `Daniel G,`,
             summary: `web3 DeFi builder doing research in a variety of topics and tools related to ethereum smart contract security. 
