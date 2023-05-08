@@ -44,7 +44,7 @@ Infrastructure proposal to integrate NFT authentication access into the platform
 
 Main components:
   - Company's website for user onboarding 
-  - Moralis service for BD for internal management
+  - Moralis service for DB for internal management
   - Chainstack for cross-chain synchronization between Ethereum, Polygon, Arbitrum and Binance BSC
   - ERC1155 management contract for NFT and ERC20 utility & rewards token
   - IPFS for NFT metadata management
